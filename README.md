@@ -1,3 +1,4 @@
+<img align="right" alt="coding" width="400" src="./coding_header.jpg">
 # 💫 About Me:
 🔭 I’m currently working on Ruby on Rails<br>🌱 I’m currently learning Rust
 
