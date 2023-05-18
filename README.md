@@ -1,4 +1,4 @@
-![MasterHead](code_header.jpg)
+![MasterHead](halfway_there.jpg)
 
 # 💫 Hi, I'm Raymond!
 ---
